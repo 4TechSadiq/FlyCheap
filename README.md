@@ -1,7 +1,7 @@
 # FlyCheap
 
 ## Overview
-The Travel Planner project automates the process of finding affordable flights based on user-defined budgets and destinations. It utilizes various APIs to fetch flight data, manage data from Google Sheets, and send notifications via Twilio.
+The FlyCheap project automates the process of finding affordable flights based on user-defined budgets and destinations. It utilizes various APIs to fetch flight data, manage data from Google Sheets, and send notifications via Twilio.
 
 The project consists of several modules:
 - **Data Manager**: Handles data retrieval from Google Sheets using Sheety API. It fetches city names, IATA codes, and expected prices from the Google Sheet.
