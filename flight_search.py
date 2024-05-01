@@ -1,8 +1,8 @@
 import requests
 from datetime import datetime, timedelta
 
-API_END = "https://api.tequila.kiwi.com/v2/search"
-API_KEY = "IzofUYaxSREl126TSviC_eiVn9Lj6y8E"
+API_END = "SEARCH API END"
+API_KEY = "API_KEY"
 
 
 class FlightSearch:
