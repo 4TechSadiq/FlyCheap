@@ -1,8 +1,8 @@
 import requests
 
-SHEETY_GET_API = "https://api.sheety.co/8483b00b3fd9b52eb8b54ba6e5092096/flightDealProject/prices"
-SHEETY_POST_API = "https://api.sheety.co/8483b00b3fd9b52eb8b54ba6e5092096/flightDealProject/prices"
-SHEETY_PUT_API = "https://api.sheety.co/8483b00b3fd9b52eb8b54ba6e5092096/flightDealProject/prices/[Object ID]"
+SHEETY_GET_API = "SHEETY API TO GET"
+SHEETY_POST_API = "SHEETY API TO POST"
+SHEETY_PUT_API = "SHEETY API TO PUT/UPDATE"
 
 
 class DataManager:
